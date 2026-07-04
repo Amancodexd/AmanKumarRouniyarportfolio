@@ -27,8 +27,7 @@ const SkillsSection = () => (
           Technologies & <span className="text-gradient">Tools</span>
         </h3>
         <p className="text-muted-foreground mt-3 max-w-lg mx-auto text-sm">
-          <h2 Continuously expanding my skillset in frontend development and modern web technologies. <span className="text-gradient"></span>
-        </h2>
+          Continuously expanding my skillset in frontend development and modern web technologies.
         </p>
       </div>
 
