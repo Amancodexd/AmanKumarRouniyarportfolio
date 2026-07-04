@@ -9,7 +9,7 @@ const Footer = () => {
     <footer className="border-t border-border py-8 relative">
       <div className="container flex flex-col sm:flex-row items-center justify-end gap-4">
         <div className="flex items-center gap-4">
-          <a href="https://github.com/cameramanxd" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+          <a href="https://github.com/Amancodexd" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
             <Github size={18} />
           </a>
           <a href="https://linkedin.com/in/aman-kumar-rouniyar" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">

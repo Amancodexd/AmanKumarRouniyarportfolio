@@ -36,7 +36,7 @@ const HeroSection = () => (
         </div>
 
         <div className="flex items-center gap-4 pt-4">
-          <a href="https://github.com/cameramanxd" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary/50 transition-colors">
+          <a href="https://github.com/Amancodexd" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary/50 transition-colors">
             <Github size={18} />
           </a>
           <a href="https://linkedin.com/in/aman-kumar-rouniyar" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary/50 transition-colors">
